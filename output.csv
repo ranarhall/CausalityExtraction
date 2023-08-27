@@ -1,0 +1,3 @@
+e1,e2,sentence,relation
+configuration,elements,"The system as described above has its greatest application in an arrayed configuration of antenna elements.
+Component-Whole(e2,e1)","e2,e1"
